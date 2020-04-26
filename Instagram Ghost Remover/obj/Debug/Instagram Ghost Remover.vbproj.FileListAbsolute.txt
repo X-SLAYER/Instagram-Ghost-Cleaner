@@ -1,0 +1,16 @@
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\Instagram Ghost Remover.exe.config
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\Instagram Ghost Remover.exe
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\Instagram Ghost Remover.pdb
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\Instagram Ghost Remover.xml
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\xNet.dll
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\xNet.pdb
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\bin\Debug\xNet.xml
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.vbprojAssemblyReference.cache
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram_Ghost_Remover.Form1.resources
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram_Ghost_Remover.Resources.resources
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.vbproj.GenerateResource.cache
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.vbproj.CoreCompileInputs.cache
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.vbproj.CopyComplete
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.exe
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.xml
+C:\Users\ihebb\source\repos\Instagram Ghost Remover\Instagram Ghost Remover\obj\Debug\Instagram Ghost Remover.pdb
