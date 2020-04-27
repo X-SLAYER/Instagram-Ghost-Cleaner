@@ -45,7 +45,7 @@ Public Class Form1
                 If rep.HasRedirect = True Then
                     response = request.Get(rep.RedirectAddress.ToString(), Nothing).ToString()
                 Else
-                    response = rep.ToString() 'a.btc.help@gmail.com | antoine.pini
+                    response = rep.ToString() '
                 End If
 
                 If response.Contains("logged_in_user") Then
