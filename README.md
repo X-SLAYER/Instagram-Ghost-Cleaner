@@ -8,8 +8,8 @@
 
 # Description
  <br>
-This Instagram tool will help you to clean iactive people you follow.
-its work by getting users without profile picture and with 0 posts on instagram and give you the choice in selecting people you want to unfollow. <br>
+This Instagram tool will help you to clean inactive people you follow.
+its work by getting users without profile picture and with 0 posts on instagram and give you the choice to selecte people you want to unfollow. <br>
 <h1 align="center"><a href="https://github.com/X-SLAYER"><img src="https://i.imgur.com/nvL5kqq.png"></a> </h1>
 
 ### Note
